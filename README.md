@@ -1,2 +1,2 @@
 # test
-[![codecov](https://codecov.tools.squads-dev.com/gh/shboddu/test/graph/badge.svg?token=Z7MWUC3GSR)](https://codecov.tools.squads-dev.com/gh/shboddu/test)
+[![codecov](https://codecov.tools.squads-dev.com/gh/Pluma-Health/pluma-enterprise-app-backend/graph/badge.svg?token=RSXGVOZX4F)](https://codecov.tools.squads-dev.com/gh/Pluma-Health/pluma-enterprise-app-backend)
